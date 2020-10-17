@@ -21,3 +21,6 @@ Code has been refactored to remove bugs, redundancies, and improve accessibility
 ![CSS5](.Screenshots/CSS5.png)
 ![CSS6](.Screenshots/CSS6.png)
 ![CSS7](.Screenshots/CSS7.png)
+
+## Link to Deployed Site
+![Horiseon.io](https://clu-codes.github.io/WeeklyChallenge1/ "Horiseon.io Home")
