@@ -108,7 +108,7 @@ p {
     color: #ffffff;
 }
  
-/* Consolidated benefit h3 Selectors
+/* Consolidated benefit h3 Selector
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -129,7 +129,7 @@ p {
     text-align: center;
 }
 
-/* Consolidated img Selectors
+/* Consolidated img Selector
 
 .benefit-lead img {
     display: block;
@@ -154,7 +154,7 @@ p {
     max-width: 150px;
 }
 
-/* Consolidated Content Selectors 
+/* Consolidated Content Selector 
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -191,7 +191,7 @@ p {
     color: #ffffff;
 }
 
-/* Consolidate Selectors using .content & img declaration  
+/* Consolidate Selector using .content & img declaration  
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -228,7 +228,7 @@ p {
     font-size: 36px;
 }
 
-/* Added footer, changed CSS declaration from ".footer" to "footer" */
+/* Added footer, changed CSS declaration from class of footer to footer tag */
 footer {
     padding: 30px;
     clear: both;
