@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* removed dot from div class header */ 
+/* Changed selector to header after removing div with header class & removed dots from selectors since we are no longer selecting the class */ 
 
 header {
     padding: 20px;
