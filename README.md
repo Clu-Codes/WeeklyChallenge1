@@ -9,6 +9,10 @@ This website is designed for Horiseon.io with the intent of promoting their serv
 ## Build Status
 Code has been refactored to remove bugs, redundancies, and improve accessibility as of 10-17-2020.
 
+## Built With
+* HTML
+* CSS
+
 ## Images
 ![HTML1](./Screenshots/HTML1.png)
 ![HTML2](./Screenshots/HTML2.png)
@@ -24,3 +28,6 @@ Code has been refactored to remove bugs, redundancies, and improve accessibility
 
 ## Link to Deployed Site
 [Horiseon.io](https://clu-codes.github.io/WeeklyChallenge1/ "Horiseon.io Home")
+
+## Contributors
+Refactored by Connor Cluster
